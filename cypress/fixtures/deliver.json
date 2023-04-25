@@ -1,0 +1,66 @@
+{
+  "signup": {
+    "name": "Rodrigo Fries",
+			"cpf": "00000014141",
+			"email": "john@john.john",
+			"whatsapp": "46999999999",
+			"address": {
+				"postalcode": "04534011",
+				"street": "Rua Joaquim Floriano",
+				"number": "941",
+				"details": "Apto 403",
+				"district": "Itaim Bibi",
+				"city_state": "São Paulo/SP"
+			},
+			"delivery_method": "Moto",
+			"cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+      "name": "Rodrigo Fries",
+        "cpf": "000000141AA",
+        "email": "johnson&johnson@johnson.johnson",
+        "whatsapp": "46999999999",
+        "address": {
+          "postalcode": "04534011",
+          "street": "Rua Joaquim Floriano",
+          "number": "941",
+          "details": "Apto 403",
+          "district": "Itaim Bibi",
+          "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Rodrigo Fries",
+			"cpf": "00000014141",
+			"email": "rodrigo.com.br",
+			"whatsapp": "46999999999",
+			"address": {
+				"postalcode": "04534011",
+				"street": "Rua Joaquim Floriano",
+				"number": "941",
+				"details": "Apto 403",
+				"district": "Itaim Bibi",
+				"city_state": "São Paulo/SP"
+			},
+			"delivery_method": "Moto",
+			"cnh": "cnh-digital.jpg"
+    },
+    "whats_inv": {
+      "name": "Rodrigo Fries",
+        "cpf": "00000014141",
+        "email": "john@john.john",
+        "whatsapp": "abc",
+        "address": {
+          "postalcode": "04534011",
+          "street": "Rua Joaquim Floriano",
+          "number": "941",
+          "details": "Apto 403",
+          "district": "Itaim Bibi",
+          "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+      }
+}
